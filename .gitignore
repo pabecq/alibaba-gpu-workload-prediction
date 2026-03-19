@@ -1,0 +1,7 @@
+# Ignore data files
+*.csv
+*.parquet
+*.h5
+data/raw/
+data/processed/
+Archive/*.csv
